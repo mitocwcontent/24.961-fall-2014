@@ -1,0 +1,10 @@
+---
+content_type: resource
+description: 'This resource contains the information regarding stress-1: metrical
+  grid.'
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-961-introduction-to-phonology-fall-2014/0092b2e51135a0601cb2402de6de38a9_MIT24_961F14_Lecture22.pdf
+file_type: application/pdf
+resourcetype: Document
+title: '24.961F14 Introduction to Phonology - Lecture Notes: Stress-1'
+uid: 0092b2e5-1135-a060-1cb2-402de6de38a9
+---
